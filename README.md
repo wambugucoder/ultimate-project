@@ -1,2 +1,1 @@
-# ultimate-project
-the program thats gonna help people
+Cant remember what this project does
